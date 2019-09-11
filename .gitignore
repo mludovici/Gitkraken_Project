@@ -1,5 +1,6 @@
 # Object file
-*.o
+*.jpg
 
-# Ada Library Information
-*.ali
+/ext/*
+
+/images/*.jpg
