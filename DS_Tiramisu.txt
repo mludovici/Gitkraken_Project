@@ -2,7 +2,7 @@ Tiramisu
 
 Menu Class: Dessert
 
-Recipe by Meg Griffin.
+Recipe by Peter Griffin.
 
 Description:
 Tiramisu is a classic Italian dessert. Ladyfinger cookies dipped in coffee, then layered with mascarponed and dusted with cocoa powder.
